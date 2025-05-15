@@ -43,6 +43,10 @@ Grayish white text
 Third Flex Box
 Environment Pictures
 Button color Dark Gray
+(each picture pair should be touching, take up the same space)
+    Apartment (Og and R)
+    Hospital (Og and R)
+    Hotel (Og and R)
 
 Fourth Flex Box
 Third and Fourth Paragraphs (Each one an item)
@@ -50,6 +54,10 @@ Third and Fourth Paragraphs (Each one an item)
 Fifth Flex Box
 Monster Pictures
 Button color Dark Gray
+(each picture pair should be touching, take up the same space)
+    Lying Figure (Og and R)
+    Mannequin (Og and R)
+    Pyramid Head (Og and R)
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
@@ -69,6 +77,46 @@ Grayish white text
 Third Flex Box
 Atmosphere Pictures
 Button color Dark Gray
+
+Fourth Flex Box
+Item A (Streets Og pic)
+Item B (Streets R pic)
+Item C (Streets Og text)
+Item D (Streets R text)
+Item C text color green
+Item D text color yellow
+#Streets
+#{Quiet fog}{Hurricane level winds}
+
+Fifth Flex Box
+Item A (Descent Og pic)
+Item B (Descent R pic)
+Item C (Descent Og text)
+Item D (Descent R text)
+Item C text color green
+Item D text color yellow
+#Descent
+#{Gradual descent into madness}{Abrupt descent into madness}
+
+Sixth Flex Box
+Item A (Symbolism Og pic)
+Item B (Symbolism R pic)
+Item C (Symbolism Og text)
+Item D (Symbolism R text)
+Item C text color green
+Item D text color yellow
+#Symbolism
+#{Subtle symbolism}{Blatant symbolism}
+
+Seventh Flex Box
+Item A (Boss Fights Og pic)
+Item B (Boss Fights R pic)
+Item C (Boss Fights Og text)
+Item D (Boss Fights R text)
+Item C text color green
+Item D text color yellow
+#Boss Fights
+#{Understated creepiness}{Over the top frustration}
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
@@ -134,51 +182,125 @@ Item D text color yellow
 #Otherworld Apartments
 #{No equivalent}{Overstays its welcome}
 
-Town West
-{Good length}{Overstays its welcome}
+Eighth Flex Box
+Item A (Town West Og pic)
+Item B (Town West R pic)
+Item C (Town West Og text)
+Item D (Town West R text)
+Item C text color green
+Item D text color yellow
+#Town West
+#{Good length}{Overstays its welcome}
 
-Brookhaven Hospital
-{Good length}{Massively overstays its welcome}
+Nineth Flex Box
+Item A (Brookhaven Hospital Og pic)
+Item B (Brookhaven Hospital R pic)
+Item C (Brookhaven Hospital Og text)
+Item D (Brookhaven Hospital R text)
+Item C text color green
+Item D text color red
+#Brookhaven Hospital
+#{Good length}{Massively overstays its welcome}
 
-Otherworld Hospital
-{Good length}{Overstays its welcome}
+Tenth Flex Box
+Item A (Otherworld Hospital Og pic)
+Item B (Otherworld Hospital R pic)
+Item C (Otherworld Hospital Og text)
+Item D (Otherworld Hospital R text)
+Item C text color green
+Item D text color yellow
+#Otherworld Hospital
+#{Good length}{Overstays its welcome}
 
-The Town at Night
-{Good length}{Overstays its welcome}
+Eleventh Flex Box
+Item A (The Town at Night Og pic)
+Item B (The Town at Night R pic)
+Item C (The Town at Night Og text)
+Item D (The Town at Night R text)
+Item C text color green
+Item D text color yellow
+#The Town at Night
+#{Good length}{Overstays its welcome}
 
-The Holes
-{Good length}{Good length}
+Twelfth Flex Box
+Item A (The Holes Og pic)
+Item B (The Holes R pic)
+Item C (The Holes Og text)
+Item D (The Holes R text)
+Item C text color green
+Item D text color green
+#The Holes
+#{Good length}{Good length}
 
-Toluca Prison
-{Good length}{Massively overstays its welcome}
+Thirteenth Flex Box
+Item A (Toluca Prison Og pic)
+Item B (Toluca Prison R pic)
+Item C (Toluca Prison Og text)
+Item D (Toluca Prison R text)
+Item C text color green
+Item D text color red
+#Toluca Prison
+#{Good length}{Massively overstays its welcome}
 
-Angela’s Nightmare
-{Good moment, perhaps a bit short}{Has great ideas, but overstays its welcome}
+Fourteenth Flex Box
+Item A (Angela’s Nightmare Og pic)
+Item B (Angela’s Nightmare R pic)
+Item C (Angela’s Nightmare Og text)
+Item D (Angela’s Nightmare R text)
+Item C text color yellow
+Item D text color yellow
+#Angela’s Nightmare
+#{Good moment, perhaps a bit short}{Has great ideas, but overstays its welcome}
 
-Labyrinth
-{Good length}{Good length}
+Fifteenth Flex Box
+Item A (Labyrinth Og pic)
+Item B (Labyrinth R pic)
+Item C (Labyrinth Og text)
+Item D (Labyrinth R text)
+Item C text color green
+Item D text color green
+#Labyrinth
+#{Good length}{Good length}
 
-Labyrinth 2
-{No equivalent}{Overstays its welcome}
+Sixteenth Flex Box
+Item A (Labyrinth 2 Og pic)
+Item B (Labyrinth 2 R pic)
+Item C (Labyrinth 2 Og text)
+Item D (Labyrinth 2 R text)
+Item C text color blue
+Item D text color yellow
+#Labyrinth 2
+#{No equivalent}{Overstays its welcome}
 
-Labyrinth 3
-{No equivalent}{Frustrating waste of time}
+Seventeenth Flex Box
+Item A (Labyrinth 3 Og pic)
+Item B (Labyrinth 3 R pic)
+Item C (Labyrinth 3 Og text)
+Item D (Labyrinth 3 R text)
+Item C text color blue
+Item D text color red
+#Labyrinth 3
+#{No equivalent}{Frustrating waste of time}
 
-Hotel
-{Good length}{Massively overstays its welcome}
+Eighteenth Flex Box
+Item A (Hotel Og pic)
+Item B (Hotel R pic)
+Item C (Hotel Og text)
+Item D (Hotel R text)
+Item C text color green
+Item D text color red
+#Hotel
+#{Good length}{Massively overstays its welcome}
 
-Otherworld Hotel
-{Good length}{Good length}
-
-
-
-
-
-
-
-
-
-
+Nineteenth Flex Box
+Item A (Otherworld Hotel Og pic)
+Item B (Otherworld Hotel R pic)
+Item C (Otherworld Hotel Og text)
+Item D (Otherworld Hotel R text)
+Item C text color green
+Item D text color green
+#Otherworld Hotel
+#{Good length}{Good length}
 
 
 
