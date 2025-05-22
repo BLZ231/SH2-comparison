@@ -1,20 +1,32 @@
+@font-face {
+    font-family: 'silent hill font';
+    src: url('Fonts/transfonter.org-silent-hell-of-cheryl/New.woff2') format('woff2'),
+        url('Fonts/transfonter.org-silent-hell-of-cheryl/New.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
     background-color: black;
     color: whitesmoke;
-    /*display: flex;*/
-}
-
-.container-mU {
-    display: flex;
-    flex-direction: column;
+    font-family: 'silent hill font', 
+    /*display: flex;
+    Arial, Helvetica, sans-serif;*/
 }
 
 img {
     display: flex;
     flex: 1;
     object-fit: cover;
+    max-width: 100%;
+    height: auto;
 }
 
+.container-mU {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
