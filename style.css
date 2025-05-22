@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: 'silent hill font';
     src: url('Fonts/transfonter.org-silent-hell-of-cheryl/New.woff2') format('woff2'),
@@ -10,9 +11,8 @@
 body {
     background-color: black;
     color: whitesmoke;
-    font-family: 'silent hill font', 
-    /*display: flex;
-    Arial, Helvetica, sans-serif;*/
+    font-family: 'silent hill font', Arial, Helvetica, sans-serif;
+    /*display: flex;*/
 }
 
 img {
