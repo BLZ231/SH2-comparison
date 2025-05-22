@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Silent Hell of Cheryl Condense';
+    src: url('dehinted-New.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Silent Hell of Cheryl Extended';
+    src: url('dehinted-New.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Silent Hell of Cheryl';
+    src: url('dehinted-New.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
