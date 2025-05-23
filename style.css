@@ -11,8 +11,8 @@ body {
     background-color: black;
     color: whitesmoke;
     font-family: 'Silent-Broadcast', Arial, Helvetica, sans-serif;
-    font-weight: normal !important;
-    /*display: flex;*/
+    overflow-x: hidden;
+    padding: 1vw;
 }
 
 img {
@@ -26,12 +26,37 @@ img {
 .container-mU {
     display: flex;
     flex-direction: column;
+    margin: 20px
 }
 
-p::first-letter, h1::first-letter, span::first-letter, div::first-letter {
-    font-weight: normal !important;
-    font-style: normal !important;
-  }
+.container-mA {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    transform: scale(5);
+    transform-origin: center;
+}
+
+.container-mC {
+    font-size: 2vw;
+    text-align: center;
+}
+
+.container-mD {
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+}
+
+button {
+    font-size: 5vw;
+    padding: 1vw 2vw;
+    padding-bottom: 0.5vw;
+    font-family: 'Silent-Broadcast', Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    border-color: darkgrey;
+    color: red;
+}
 
 
 /*Main Page Style
