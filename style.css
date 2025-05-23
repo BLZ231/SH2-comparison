@@ -1,14 +1,7 @@
-@font-face {
-    font-family: 'Silent-Hill-Font';
-    src: url('Fonts/tf.org-silenthillfontV2/dehinted-New.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
 
 @font-face {
-    font-family: 'silent hill font';
-    src: url('Fonts/transfonter.org-silent-hell-of-cheryl/New.woff') format('woff');    
+    font-family: 'Silent-Broadcast';
+    src: url('Fonts/SilentBroadCastFont/SilentBroadcast.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -17,7 +10,7 @@
 body {
     background-color: black;
     color: whitesmoke;
-    font-family: 'Silent-Hill-Font', Arial, Helvetica, sans-serif;
+    font-family: 'Silent-Broadcast', Arial, Helvetica, sans-serif;
     font-weight: normal !important;
     /*display: flex;*/
 }
@@ -35,8 +28,10 @@ img {
     flex-direction: column;
 }
 
-
-
+p::first-letter, h1::first-letter, span::first-letter, div::first-letter {
+    font-weight: normal !important;
+    font-style: normal !important;
+  }
 
 
 /*Main Page Style
