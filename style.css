@@ -55,7 +55,17 @@ button {
     font-family: 'Silent-Broadcast', Arial, Helvetica, sans-serif;
     background-color: darkgray;
     border-color: darkgrey;
-    color: red;
+    color: whitesmoke;
+    
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: gray;
+    border-color: gray;
+    color: firebrick;
+    filter: brightness(75%);
+    transition: all 0.5s ease;
 }
 
 
