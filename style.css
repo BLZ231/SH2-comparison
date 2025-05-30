@@ -23,13 +23,18 @@ img {
     height: auto;
 }
 
-.container-mU {
+/*for containers: m=main page, 1=page 1, 2=page 2, 3=page 3
+U containers refer to the entire page, U=universal
+items are different, numbers refer to their order
+letters also refer to the order in which things appear*/
+
+.container-mU, .container-1U, .container-2U, .container-3U {
     display: flex;
     flex-direction: column;
     margin: 20px
 }
 
-.container-mA {
+.container-mA, .container-1A, .container-2A, .container-3A {
     display: flex;
     justify-content: center;
     font-size: 2vw;
@@ -37,7 +42,7 @@ img {
     transform-origin: center;
 }
 
-.container-mC {
+.container-mC, .container-1B, .container-1D, .container-2B, .container-3B {
     font-size: 2vw;
     text-align: center;
 }
