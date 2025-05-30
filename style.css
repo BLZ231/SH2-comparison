@@ -48,7 +48,7 @@ img {
     gap: 2vw;
 }
 
-button {
+.button {
     font-size: 5vw;
     padding: 1vw 2vw;
     padding-bottom: 0.5vw;
@@ -59,7 +59,7 @@ button {
     
 }
 
-button:hover {
+.button:hover {
     cursor: pointer;
     background-color: gray;
     border-color: gray;
